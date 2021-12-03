@@ -1,0 +1,24 @@
+*{padding: 0; margin: 0;}
+.tieude{text-align: center;
+    font-family: Segoe UI;
+}
+.big{display: flex; padding-top: 10px;}
+.big .Khoi{
+    margin-left: 40px;
+    padding-left: 100px;
+}
+.big .Khoi .top p{
+    font-size: 35px;
+    padding-top: 50px;
+}
+.big .Khoi .top{
+    background-color: aqua; 
+    height: 150px; width: 240px;
+}
+.big .Khoi .under{
+    background-color: white; 
+    height: 200px; width: 240px;
+}
+.big .Khoi .under p {
+    font-family: Segoe UI;
+}
